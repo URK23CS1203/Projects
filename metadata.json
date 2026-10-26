@@ -1,0 +1,6 @@
+{
+  "name": "CRM Machine Dashboard",
+  "description": "A real-time dashboard to track and monitor Crop Residue Management (CRM) machines, helping to improve their utilization and reduce stubble burning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
